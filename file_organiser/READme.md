@@ -23,7 +23,8 @@ cd NexusLogic_Internship_Projects/file_organiser
 
 Install Dependencies
 
-Ensure you have tkinter and Pillow installed. You can install required dependencies using:
-You can run this code, on your screen window will appear asking you to upload file, which contain files with any extensions, be it .txt , .html , .xml , .pdf,
+Ensure you have tkinter and Pillow installed. You can install required dependencies using: pip install pillow 
+You can run this code, on your screen window will appear asking you to upload file, which contain files with any extensions,
+be it .txt , .html , .xml , .pdf,
 The python script written will make respective folder for each extension files, it will gather all files inside that folder.
  
